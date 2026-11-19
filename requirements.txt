@@ -6,12 +6,13 @@ pydantic-settings
 langgraph
 langchain-core
 langchain-community
-langchain-openai
 langchain-tavily
 langchain-pinecone
 langchain-text-splitters
+langchain-huggingface
+langchain-google-genai
 pinecone
-openai
+sentence-transformers
 pypdf
 python-docx
 python-dotenv
